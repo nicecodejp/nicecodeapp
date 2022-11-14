@@ -1,0 +1,4 @@
+baseURL = 'http://nicecode.app/'
+languageCode = 'ja-jp'
+title = 'My New Hugo Site'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
