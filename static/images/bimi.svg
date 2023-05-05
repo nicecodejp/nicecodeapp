@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
-              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-
 <svg version="1.2"
      baseProfile="tiny-ps"
      xmlns="http://www.w3.org/2000/svg"
      width="0.999992in" height="0.999992in"
-     viewBox="0 0 640 640"
-     xml:space="preserve">
+     viewBox="0 0 640 640">
   <title>NiceCode</title>
   <path id="bg" d="M0 0 L 640 0 L 640 640 L 0 640" fill="#f0b446" stroke-width="0"/>
   <path id="char" fill="black" stroke-width="0"
