@@ -8,10 +8,9 @@
      width="0.999992in" height="0.999992in"
      viewBox="0 0 640 640"
      xml:space="preserve">
-  <g>
-    <title>NiceCode</title>
-    <path id="bg" d="M0 0 L 640 0 L 640 640 L 0 640" fill="#f0b446" stroke-width="0"/>
-    <path id="char" fill="black" stroke-width="0"
+  <title>NiceCode</title>
+  <path id="bg" d="M0 0 L 640 0 L 640 640 L 0 640" fill="#f0b446" stroke-width="0"/>
+  <path id="char" fill="black" stroke-width="0"
           d="M 155.75,209.25
            C 155.75,218.70 153.23,226.70 148.20,233.27
              143.17,239.83 135.13,243.11 124.09,243.11
@@ -193,5 +192,4 @@
              493.90,406.23 489.48,407.74 485.98,410.75
              482.49,413.75 480.20,417.65 479.09,422.44
              479.09,422.44 516.62,422.44 516.62,422.44 Z" />
-  </g>
 </svg>
