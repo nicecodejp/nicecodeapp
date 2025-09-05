@@ -5,11 +5,11 @@ theme = ["hugo-initio"]
 
 [params]
     name = "NiceCode"
-    description = "池袋・板橋を中心としたシステムエンジニアリング企業です"
+    description = "東京、沖縄を中心としたシステムエンジニアリング企業です"
     email = "kotetsu@nicecode.app"
     phone = ""
     address = ""
-    year = 2022
+    year = 2025
     avatar = "images/logo.png"
     avatarclass = "square"
     background = ""
